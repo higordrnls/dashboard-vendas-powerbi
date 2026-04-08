@@ -27,7 +27,7 @@ Analisar indicadores-chave de performance (KPIs) e gerar insights para tomada de
 
 ## 📷 Preview do Dashboard
 
-![Dashboard]([link_da_imagem](https://github.com/higordrnls/dashboard-vendas-powerbi/blob/main/Dashboard-de-Vendas-An%C3%A1lise-de-Performance-em-Power-BI.png?raw=true))
+![Dashboard](https://github.com/higordrnls/dashboard-vendas-powerbi/blob/main/Dashboard-de-Vendas-An%C3%A1lise-de-Performance-em-Power-BI.png?raw=true))
 
 ## 🚀 Sobre mim
 
