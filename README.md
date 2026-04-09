@@ -52,4 +52,4 @@ Este projeto faz parte da minha transição para a área de dados, aplicando con
 
 ## 📷 Preview
 
-![Dashboard](./dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/higordrnls/dashboard-vendas-powerbi/refs/heads/main/An%C3%A1lise-de-Vendas-Mensal-Loja-_1_.png)
