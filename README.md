@@ -1,34 +1,55 @@
-# 📊 Dashboard de Vendas - Power BI
+# 📊 Análise de Vendas Mensal - Power BI
 
-## 📌 Sobre o projeto
-
-Este projeto consiste na construção de um dashboard de vendas utilizando Power BI, com foco na análise de desempenho de um e-commerce.
+Dashboard desenvolvido com Power BI utilizando dados reais de operação de uma loja.
 
 ## 🎯 Objetivo
 
-Analisar indicadores-chave de performance (KPIs) e gerar insights para tomada de decisão.
+Transformar dados brutos de vendas em informações estratégicas para apoio na tomada de decisão.
 
-## 📈 Métricas analisadas
+---
 
-* Faturamento total
-* Total de pedidos
-* Ticket médio
+## 📌 Principais Métricas
 
-## 📊 Visualizações
+- Faturamento Total: R$ 214.262  
+- Quantidade Total Vendida: 7.924  
+- Ticket Médio: R$ 27,04  
+- Produto Líder: Isca Artificial Deyu  
 
-* Faturamento por produto
-* Evolução das vendas ao longo do tempo
-* Filtros interativos por produto
+---
 
-## 🛠️ Ferramentas utilizadas
+## 📊 Análises Desenvolvidas
 
-* Power BI
-* Excel
+- Evolução de faturamento e ticket médio  
+- Comparação de ticket médio por produto  
+- Matriz estratégica de produtos (quantidade vs ticket médio)  
+- Filtro interativo por produto  
 
-## 📷 Preview do Dashboard
+---
 
-![Dashboard](https://github.com/higordrnls/dashboard-vendas-powerbi/blob/main/Dashboard-de-Vendas-An%C3%A1lise-de-Performance-em-Power-BI.png?raw=true))
+## 🧠 Insights Obtidos
 
-## 🚀 Sobre mim
+- Produto com maior faturamento: Balança 150kg  
+- Produto com maior volume: Isca Artificial Deyu  
+- Ticket médio considerado baixo, indicando oportunidade de aumento de valor por pedido  
+- Diferença clara entre volume de vendas e geração de receita entre produtos  
 
-Profissional em transição para a área de dados, com experiência prática em operações, e-commerce e análise de processos.
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Power BI  
+- Excel (base de dados)  
+- Modelagem de dados  
+- DAX (cálculo de métricas)
+
+---
+
+## 🚀 Sobre o Projeto
+
+Este projeto faz parte da minha transição para a área de dados, aplicando conceitos analíticos em um contexto real de negócio.
+
+---
+
+## 📷 Preview
+
+![Dashboard](./dashboard.png)
